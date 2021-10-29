@@ -1,2 +1,5 @@
 eggs 
 ketchup
+cookies
+ice cream 
+beer
